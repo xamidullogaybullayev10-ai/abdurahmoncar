@@ -1,0 +1,7 @@
+{
+  "name": "Parking Master",
+  "description": "Master 10 challenging parking levels with realistic car physics, responsive controls, obstacles, and precision parking zones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
